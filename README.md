@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yusufozturk123 
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python, Machine Learning
+- 🌱 I’m currently learning Python, Machine Learning and image Processing
 - 📫 How to reach me +90 554 585 06 05
 
 I know Python(Sklearn, Opencv, Pandas, Numpy, Matplotlib, Tesseract,BeautifulSoup, Selenium, ), C++ , C#, Java, Classic ASP, 
